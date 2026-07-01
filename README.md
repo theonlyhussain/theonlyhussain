@@ -13,17 +13,6 @@ Hi, I’m Hussain Shaikh.<br><br>I’m a student and self-taught developer, I’
 
 ## 🚀 Top Repository
 
-<p align="center">
-  <a href="https://github.com/theonlyhussain/gratia">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=theonlyhussain&repo=gratia&theme=dark&hide_border=true" 
-      alt="Gratia GitHub repository card" 
-    />
-  </a>
-</p>
+[![Gratia](https://github-readme-stats.vercel.app/api/pin/?username=theonlyhussain&repo=gratia&theme=github_dark&hide_border=true&show_owner=true)](https://github.com/theonlyhussain/gratia)
 
-<p align="center">
-  <b>Gratia</b> — A private Spotify-style music player built for personal music streaming.
-</p>
----
-
+**Gratia** — A privacy-first Android music player with local playback, favorites, search, lyrics, and a custom dark Gratia design system.
