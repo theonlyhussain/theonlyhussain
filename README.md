@@ -11,13 +11,19 @@ Hi, I’m Hussain Shaikh.<br><br>I’m a student and self-taught developer, I’
 ![](https://github-readme-stats.shion.dev/api?username=theonlyhussain&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/> <br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=theonlyhussain&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact) </br>
 
-## 🔝 Top Contributed Repositories
+## 🚀 Top Repository
 
 <p align="center">
-  <img 
-    src="https://github-contributor-stats.vercel.app/api?username=theonlyhussain&limit=5&theme=dark&combine_all_yearly_contributions=true" 
-    alt="Top contributed repositories" 
-  />
+  <a href="https://github.com/theonlyhussain/gratia">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=theonlyhussain&repo=gratia&theme=dark&hide_border=true" 
+      alt="Gratia GitHub repository card" 
+    />
+  </a>
+</p>
+
+<p align="center">
+  <b>Gratia</b> — A private Spotify-style music player built for personal music streaming.
 </p>
 ---
 
