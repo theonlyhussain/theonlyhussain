@@ -11,8 +11,13 @@ Hi, I’m Hussain Shaikh.<br><br>I’m a student and self-taught developer, I’
 ![](https://github-readme-stats.shion.dev/api?username=theonlyhussain&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/> <br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=theonlyhussain&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact) </br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=theonlyhussain&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🔝 Top Contributed Repositories
 
+<p align="center">
+  <img 
+    src="https://github-contributor-stats.vercel.app/api?username=theonlyhussain&limit=5&theme=dark&combine_all_yearly_contributions=true" 
+    alt="Top contributed repositories" 
+  />
+</p>
 ---
 
